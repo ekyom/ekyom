@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ekyom
 - 👀 I’m interested in writing stories
-- 📫 How to reach me on github
+- 📫 How to reach me you can reach me on github
 
 <!---
 ekyom/ekyom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
